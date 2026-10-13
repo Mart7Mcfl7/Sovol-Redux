@@ -14,6 +14,6 @@ I have added all assets needed and setup the bed sizes, start print gcode, shoul
 
 Updates
 
-#3 Fixed default line width for 0.8 nozzles, they were inheriting 0.45 from parent.
+#mk3 Fixed default line width for 0.8 nozzles, they were inheriting 0.45 from parent.
 
-#4 Added new nozzle variants and profiles, fixed contrib from user
+#mk4 Added new nozzle variants and profiles, fixed contrib from user
