@@ -16,4 +16,4 @@ Updates
 
 #mk3 Fixed default line width for 0.8 nozzles, they were inheriting 0.45 from parent.
 
-#mk4 Added new nozzle variants and profiles, fixed contrib from user
+#mk4 Added new nozzle variants and profiles, contrib for line purge fix from user, common was not populated correctly-now custom nozzles should work correctly
