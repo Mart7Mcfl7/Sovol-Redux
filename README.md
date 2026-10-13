@@ -12,6 +12,8 @@ To use these profiles, copy/extract the files to C:\Program Files\OrcaSlicer\res
 
 I have added all assets needed and setup the bed sizes, start print gcode, should be ready to go. (Orca 2.4.2) I've done my best, but please don't assume there are no bugs. If you find one, please reach out so I can fix it.
 
-Update 3
+Updates
 
 #3 Fixed default line width for 0.8 nozzles, they were inheriting 0.45 from parent.
+
+#4 Added new nozzle variants and profiles, fixed contrib from user
